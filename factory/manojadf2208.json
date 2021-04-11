@@ -1,0 +1,9 @@
+{
+	"name": "manojadf2208",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a205e24-f8a1-4fe5-a27a-a40ec94d82bf",
+		"tenantId": "ac9d816e-508c-4a40-9a83-312a31482825"
+	}
+}
